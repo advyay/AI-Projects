@@ -182,6 +182,3 @@ Handles communication between Live Agent Studio and your Voiceflow agent.
 }
 ```
 
-## Contributing
-
-This agent is part of the oTTomator agents collection. For contributions or issues, please refer to the main repository guidelines.
